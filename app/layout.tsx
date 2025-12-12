@@ -35,6 +35,8 @@ export const metadata: Metadata = {
   generator: "v0.app",
   icons: {
     icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
   },
 }
 
